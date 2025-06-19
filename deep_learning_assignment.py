@@ -1,9 +1,4 @@
 
-# Deep Learning Frameworks Assignment Solutions
-# Author: ChatGPT
-
-# TensorFlow 2.0 and PyTorch Basics
-
 # Q1: What is TensorFlow 2.0?
 # Answer: TensorFlow 2.0 is an improved version of TensorFlow with eager execution, integration with Keras, and a more intuitive API.
 
